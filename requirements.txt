@@ -1,0 +1,7 @@
+streamlit = 1.38.0
+pandas = 2.2.2
+json = 2.0.9
+openai = 1.57.2
+langchain = 0.3.11
+sqlalchemy = 2.0.30
+fitz = 1.25.0

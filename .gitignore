@@ -1,0 +1,8 @@
+keys/*
+!keys/.gitkeep
+*.pkl
+__pycache__/*
+.idea/*
+*.pdf
+*.ipynb
+.DS_Store
